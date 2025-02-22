@@ -12,16 +12,18 @@ The official `Xtend Record` files can only be obtained from [Github release](htt
 
 ## Changelogs
 
-> Light weight application
-> Lag fixed 
-> Smooth recording
-> Smooth fps capture
-> Support High quality and fps 
-> Support High video bitrate
-> Support system sound and microphone ( Android 10+ )
-> Hard-core Optimization 
-> Black and white theme
-> Build for low end devices 
+> - Light weight application
+> - Lag fixed 
+> - Smooth recording
+> - Smooth fps capture
+> - Support High quality and fps 
+> - Support High video bitrate
+> - Support system sound and microphone ( Android 10+ )
+> - Hard-core Optimization
+> - Optimized libs files
+> - Optimized Performance 
+> - Black and white theme
+> - Build for low end devices 
 
 ## Tips for low end devices ( 1Gbram )
 
