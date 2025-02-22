@@ -5,7 +5,9 @@
 
 ## Downloads
 
-The official `Xtend Record` files can only be obtained from [Github release](https://github.com/Jonjeexe/Xtend-Recorder/releases) 
+The official `Xtend Record` files can only be obtained from 
+
+[Github release](https://github.com/Jonjeexe/XtendRecorder/releases) 
 
 [![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/Kyliekyler/MAGNETAR/releases)
 
