@@ -12,7 +12,7 @@ The official `Xtend Record` files can only be obtained from [Github release](htt
 
 ## Changelogs
 
-> - Light weight application
+> - Light weight application size
 > - Lag fixed 
 > - Smooth recording
 > - Smooth fps capture
@@ -25,7 +25,9 @@ The official `Xtend Record` files can only be obtained from [Github release](htt
 > - Black and white theme
 > - Build for low end devices 
 
-## Tips for low end devices ( 1Gbram )
+---
+
+## Tips for low end devices
 
 > less recording quality more stable fps 
 
