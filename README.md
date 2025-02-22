@@ -29,6 +29,8 @@ The official `Xtend Record` files can only be obtained from [Github release](htt
 
 > less recording quality more stable fps 
 
+## licensed
+
 > Xtend Recorder is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg?style=flat&logo=creativecommons"/></a>
